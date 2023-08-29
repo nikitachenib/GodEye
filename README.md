@@ -8,7 +8,7 @@ All modules located in the `src` directory are APIs, so you can build a library 
 ### 1. How to build a library from sources
 1) Clone this repo
 ```shell
-git clone https://github.com/paveldat/God-s-eye.git
+git clone https://github.com/nikitachenib/GodEye
 ```
 2) Go to the cloned repository
 ```shell
