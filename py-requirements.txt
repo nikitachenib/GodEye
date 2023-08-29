@@ -1,0 +1,8 @@
+pathlib
+dnspython
+requests
+python-nmap
+build
+folium
+opencage
+phonenumbers
